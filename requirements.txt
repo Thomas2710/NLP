@@ -1,0 +1,16 @@
+es_core_news_sm==3.1.0
+nltk==3.8.1
+numpy==1.21.5
+pandas==2.0.1
+pcfg==0.1.5
+scikit_learn==1.3.2
+scipy==1.8.0
+sentencepiece==0.1.99
+sklearn_crfsuite==0.3.6
+spacy==3.1.7
+spacy_conll==3.4.0
+spacy_stanza==1.0.4
+stanza==1.7.0
+torch==2.1.2
+tqdm==4.66.1
+transformers==4.29.2
